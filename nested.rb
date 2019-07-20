@@ -87,7 +87,7 @@ def adding_matz
 
 
 programmer_hash[:yukihiro_matsumoto] = {}
-
+programmer_hash[:yukihiro_matsumoto][:known_for] = "Ruby"
 return programmer_hash
     
 end
